@@ -1,5 +1,5 @@
 * {
-margin: 2;
+margin: 0;
 padding: 0;
 }
 
@@ -9,7 +9,7 @@ padding: 5;
 }
 
 body {
-  background: gray
+  background:	#23272a
 }
 
 discord {
